@@ -8,5 +8,4 @@
 		* pip: `pip install mysql-connector`
 		
 	* lxml
-		* Conda: `conda install -c anaconda mysql-connector-python `
 		* pip: `pip install lxml`
