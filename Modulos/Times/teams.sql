@@ -15,7 +15,7 @@ SET FOREIGN_KEY_CHECKS = 0;
 -- ----------------------------
 DROP TABLE IF EXISTS `teams`;
 CREATE TABLE `teams`  (
-  `number` int(11) NOT NULL,
+  `team_number` int(11) NOT NULL,
   `team_name` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
   `password` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   `team_short_name` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
