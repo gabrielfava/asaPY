@@ -99,3 +99,4 @@ ENV/
 
 # mypy
 .mypy_cache/
+Modulos/Times/select_team_mysql.py
