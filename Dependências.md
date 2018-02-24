@@ -6,6 +6,7 @@
 	* mysql-connector-python 2.0.4
 		* Conda: `conda install -c anaconda mysql-connector-python `
 		* pip: `pip install mysql-connector`
+		
 	* lxml
 		* Conda: `conda install -c anaconda mysql-connector-python `
 		* pip: `pip install lxml`
