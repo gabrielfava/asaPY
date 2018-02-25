@@ -12,7 +12,7 @@ def printme(pagina):
    
    bodyframe = getCorpo(__URL_GLOBAL+page2);
    print(bodyframe);
-   #print(getAttr(bodyframe,"content"));
+
    return;
    
    
