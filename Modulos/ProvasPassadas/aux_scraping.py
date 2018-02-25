@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+#ASAPY
 import requests
 __URL_GLOBAL = "https://www.urionlinejudge.com.br";
 
