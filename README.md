@@ -36,4 +36,3 @@ Confira os releases no branch `master` do projeto, em [releases](https://github.
 * Bugs, erros ou suporte
 
 	Crie um novo `issue` em nosso repositório: [Issues](https://github.com/gabrielfava/asapy/issues).
-
