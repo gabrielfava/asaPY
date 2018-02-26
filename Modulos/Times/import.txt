@@ -1,0 +1,30 @@
+[user]
+usernumber=900
+usersitenumber=1
+username=team1
+usertype=team
+userenabled=t
+usermultilogin=f
+userfullname=[Team 1] ASAP
+userdesc=[Team 1] ASAP
+userpassword=5EUQDV
+
+usernumber=901
+usersitenumber=1
+username=team2
+usertype=team
+userenabled=t
+usermultilogin=f
+userfullname=[Team 2] Sudocode
+userdesc=[Team 2] Sudocode
+userpassword=ZHODQV
+
+usernumber=902
+usersitenumber=1
+username=team3
+usertype=team
+userenabled=t
+usermultilogin=f
+userfullname=[Team 3] JAVAIScript 
+userdesc=[Team 3] JAVAIScript 
+userpassword=FV5Y78
