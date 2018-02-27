@@ -29,7 +29,7 @@ O projeto teve início ao desenvolvimento no dia 24 de fevereiro de 2018. As eta
 Confira os releases no branch `master` do projeto, em [releases](https://github.com/gabrielfava/asapy/releases).
 
 ## Contato
-* Quer contribuir com o projeto? Tem alguma sugestão? 
+*👷  Quer contribuir com o projeto? Tem alguma sugestão? 
 	
 	Nos mande um e-mail em `jp ponto mondoni arroba gmail ponto com` ou `gabrielfavasouza arroba gmail ponto com` 
 
