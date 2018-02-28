@@ -43,7 +43,6 @@ def getCorpo(req):
 
 printme("2166")
     
-
 #print("titulo  => URI Online Judge - Problema 2166 - Raiz Quadrada de 2")
 #print("autor   => M.C. Pinto, UNILA")
 #print("probm   => ma das formas de calcular a raiz quadrada de um n\xc3\xbamero natural")
