@@ -1,5 +1,9 @@
 #ASAPY
+from importlib.machinery import SourceFileLoader
+import exercicios_passados_classe
 import requests
+SourceFileLoader("util_asapy", "../Global/util_asapy.py").load_module()
+
 __URL_GLOBAL = "https://www.urionlinejudge.com.br";
 
 def printme(pagina):
@@ -9,23 +13,13 @@ def printme(pagina):
    iFim = find_str(pos, ">")+1;
    tupla = pos[:iFim];
    page2 = getAttr(tupla,"src");
-   
+   ex = ex_passado();
+   ex.setAutor("José de Alencar");
    bodyframe = getCorpo(__URL_GLOBAL+page2);
-   print(bodyframe);
-
    return;
    
    
-def find_str(s, char):
-    index = 0
-    if char in s:
-        c = char[0]
-        for ch in s:
-            if ch == c:
-                if s[index:index+len(char)] == char:
-                    return index
-            index += 1
-    return -1
+
 
 #TODO - TRATAR EQUIVALENCIA DE SINTAXE !
 def getAttr(tupla, atributo):
