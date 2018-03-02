@@ -1,5 +1,4 @@
-#ASAPY
-from importlib.machinery import SourceFileLoader
+﻿from importlib.machinery import SourceFileLoader
 import exercicios_passados_classe
 import requests
 SourceFileLoader("util_asapy", "../Global/util_asapy.py").load_module()
